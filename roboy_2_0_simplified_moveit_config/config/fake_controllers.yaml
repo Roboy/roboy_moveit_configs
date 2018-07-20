@@ -1,0 +1,20 @@
+controller_list:
+  - name: fake_hand_left_controller
+    joints:
+      - shoulder_left_axis_1
+      - shoulder_left_axis_2
+      - shoulder_left_axis_3
+      - elbow_left
+      - wrist_left
+  - name: fake_hand_right_controller
+    joints:
+      - shoulder_right_axis_1
+      - shoulder_right_axis_2
+      - shoulder_right_axis_3
+      - elbow_right
+      - wrist_right
+  - name: fake_head_controller
+    joints:
+      - neck_axis_1
+      - neck_axis_2
+      - neck_axis_3

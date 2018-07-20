@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: roboy_models
+    relative_path: planar_2r_xz/model.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/planar_2r_xz.srdf
+  CONFIG:
+    author_name: Simon Trendel
+    author_email: simon.trendel@tum.de
+    generated_timestamp: 1531699706

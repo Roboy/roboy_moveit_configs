@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: roboy_models
+    relative_path: myo_test_bed_2dof/model.urdf
+  SRDF:
+    relative_path: config/myo_test_bed_2dof.srdf
+  CONFIG:
+    author_name: Simon Trendel
+    author_email: simon.trendel@tum.de
+    generated_timestamp: 1528643056

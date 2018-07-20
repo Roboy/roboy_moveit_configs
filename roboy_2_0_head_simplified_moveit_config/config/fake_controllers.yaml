@@ -1,0 +1,6 @@
+controller_list:
+  - name: fake_head_controller
+    joints:
+      - neck_axis_1
+      - neck_axis_2
+      - neck_axis_3

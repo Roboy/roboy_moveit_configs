@@ -1,0 +1,9 @@
+controller_list:
+  - name: fake_link5_controller
+    joints:
+      - joint5
+      - joint0
+      - joint1
+      - joint2
+      - joint3
+      - joint4
