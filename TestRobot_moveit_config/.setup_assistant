@@ -1,11 +1,11 @@
 moveit_setup_assistant_config:
   URDF:
     package: roboy_models
-    relative_path: roboy_vr_booth/model.urdf
+    relative_path: TestRobot/model.urdf
     xacro_args: "--inorder "
   SRDF:
-    relative_path: config/roboy_vr_booth.srdf
+    relative_path: config/TestRobot.srdf
   CONFIG:
     author_name: Simon Trendel
     author_email: st@roboy.org
-    generated_timestamp: 1532132012
+    generated_timestamp: 1532260375

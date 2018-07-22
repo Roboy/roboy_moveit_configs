@@ -4,6 +4,6 @@ controller_list:
       - joint0
       - joint1
       - joint2
-      - joint3
-      - joint4
-      - joint5
+      - sphere_axis0
+      - sphere_axis1
+      - sphere_axis2
