@@ -1,9 +1,19 @@
 controller_list:
   - name: fake_hand_left_controller
     joints:
-      - base_joint
       - sphere_axis0
       - sphere_axis1
       - sphere_axis2
       - elbow_left
       - wrist_left
+  - name: fake_torso_controller
+    joints:
+      - spine_v0_axis0
+      - spine_v0_axis1
+      - spine_v0_axis2
+      - spine_v1_axis0
+      - spine_v1_axis1
+      - spine_v1_axis2
+      - spine_v2_axis0
+      - spine_v2_axis1
+      - spine_v2_axis2

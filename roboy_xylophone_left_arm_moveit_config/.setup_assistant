@@ -7,5 +7,5 @@ moveit_setup_assistant_config:
     relative_path: config/roboy_xylophone_left_arm.srdf
   CONFIG:
     author_name: Simon Trendel
-    author_email: simon.trendel@tum.de
-    generated_timestamp: 1532183119
+    author_email: st@roboy.org
+    generated_timestamp: 1532481576
