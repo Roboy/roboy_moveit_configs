@@ -7,6 +7,11 @@ joint_limits:
     max_velocity: 0
     has_acceleration_limits: false
     max_acceleration: 0
+  joint_hip:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
   sphere_axis0:
     has_velocity_limits: false
     max_velocity: 0
@@ -18,51 +23,6 @@ joint_limits:
     has_acceleration_limits: false
     max_acceleration: 0
   sphere_axis2:
-    has_velocity_limits: false
-    max_velocity: 0
-    has_acceleration_limits: false
-    max_acceleration: 0
-  spine_v0_axis0:
-    has_velocity_limits: false
-    max_velocity: 0
-    has_acceleration_limits: false
-    max_acceleration: 0
-  spine_v0_axis1:
-    has_velocity_limits: false
-    max_velocity: 0
-    has_acceleration_limits: false
-    max_acceleration: 0
-  spine_v0_axis2:
-    has_velocity_limits: false
-    max_velocity: 0
-    has_acceleration_limits: false
-    max_acceleration: 0
-  spine_v1_axis0:
-    has_velocity_limits: false
-    max_velocity: 0
-    has_acceleration_limits: false
-    max_acceleration: 0
-  spine_v1_axis1:
-    has_velocity_limits: false
-    max_velocity: 0
-    has_acceleration_limits: false
-    max_acceleration: 0
-  spine_v1_axis2:
-    has_velocity_limits: false
-    max_velocity: 0
-    has_acceleration_limits: false
-    max_acceleration: 0
-  spine_v2_axis0:
-    has_velocity_limits: false
-    max_velocity: 0
-    has_acceleration_limits: false
-    max_acceleration: 0
-  spine_v2_axis1:
-    has_velocity_limits: false
-    max_velocity: 0
-    has_acceleration_limits: false
-    max_acceleration: 0
-  spine_v2_axis2:
     has_velocity_limits: false
     max_velocity: 0
     has_acceleration_limits: false
