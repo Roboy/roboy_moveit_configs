@@ -8,4 +8,4 @@ moveit_setup_assistant_config:
   CONFIG:
     author_name: Simon Trendel
     author_email: st@roboy.org
-    generated_timestamp: 1532702850
+    generated_timestamp: 1532883186
