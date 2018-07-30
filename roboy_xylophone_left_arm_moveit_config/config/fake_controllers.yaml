@@ -1,12 +1,13 @@
 controller_list:
-  - name: fake_hand_left_controller
+  - name: fake_palm_controller
     joints:
       - joint_hip
       - sphere_axis0
       - sphere_axis1
       - sphere_axis2
       - elbow_left
-      - wrist_left
+      - left_wrist_0
+      - left_wrist_1
   - name: fake_lower_arm_left_controller
     joints:
       - joint_hip
@@ -14,3 +15,33 @@ controller_list:
       - sphere_axis1
       - sphere_axis2
       - elbow_left
+  - name: fake_left_ring_limb3_controller
+    joints:
+      - left_palm_ring
+      - left_joint0_ring
+      - left_joint1_ring
+      - left_joint2_ring
+  - name: fake_left_middle_limb3_controller
+    joints:
+      - left_palm_middle
+      - left_joint0_middle
+      - left_joint1_middle
+      - left_joint2_middle
+  - name: fake_left_index_limb3_controller
+    joints:
+      - left_palm_index
+      - left_joint0_index
+      - left_joint1_index
+      - left_joint2_index
+  - name: fake_left_thumb_limb3_controller
+    joints:
+      - left_palm_thumb
+      - left_joint0_thumb
+      - left_joint1_thumb
+      - left_joint2_thumb
+  - name: fake_left_little_limb3_controller
+    joints:
+      - left_palm_little
+      - left_joint0_little
+      - left_joint1_little
+      - left_joint2_little
