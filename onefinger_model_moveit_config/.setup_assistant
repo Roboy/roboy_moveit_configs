@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: roboy_models
+    relative_path: onefinger_model/model.urdf
+    xacro_args: "--inorder "
+  SRDF:
+    relative_path: config/OnefingerWCasprsdf.srdf
+  CONFIG:
+    author_name: barisyazici
+    author_email: baris.yazici@tum.de
+    generated_timestamp: 1532961007
