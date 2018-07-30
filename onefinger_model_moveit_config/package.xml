@@ -1,6 +1,6 @@
 <package>
 
-  <name>onefinger_model</name>
+  <name>onefinger_model_moveit_config</name>
   <version>0.3.0</version>
   <description>
      An automatically generated package with all the configuration and launch files for using the onefinger_model with the MoveIt! Motion Planning Framework
