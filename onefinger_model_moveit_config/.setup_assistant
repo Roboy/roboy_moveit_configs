@@ -6,6 +6,6 @@ moveit_setup_assistant_config:
   SRDF:
     relative_path: config/onefinger_model.srdf
   CONFIG:
-    author_name: Simon Trendel
-    author_email: st@roboy.org
-    generated_timestamp: 1532982045
+    author_name: barisyazici
+    author_email: baris.yazici@tum.de
+    generated_timestamp: 1532981935
