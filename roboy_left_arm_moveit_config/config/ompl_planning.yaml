@@ -146,5 +146,5 @@ lower_arm_left:
     - LazyPRMstarkConfigDefault
     - SPARSkConfigDefault
     - SPARStwokConfigDefault
-  projection_evaluator: joints(joint_hip,sphere_axis0)
+  projection_evaluator: joints(sphere_axis0,sphere_axis1)
   longest_valid_segment_fraction: 0.005
