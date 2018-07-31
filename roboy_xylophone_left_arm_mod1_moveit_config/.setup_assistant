@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: roboy_models
+    relative_path: roboy_xylophone_left_arm_mod1/model.urdf
+    xacro_args: "--inorder "
+  SRDF:
+    relative_path: config/roboy_xylophone_left_arm_mod1.srdf
+  CONFIG:
+    author_name: Simon Trendel
+    author_email: st@roboy.org
+    generated_timestamp: 1533039941

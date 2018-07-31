@@ -1,0 +1,8 @@
+controller_list:
+  - name: fake_lower_arm_left_controller
+    joints:
+      - joint_hip
+      - sphere_axis0
+      - sphere_axis1
+      - sphere_axis2
+      - elbow_left
