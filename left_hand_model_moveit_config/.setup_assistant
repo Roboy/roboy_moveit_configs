@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: roboy_models
+    relative_path: left_hand_model/model.urdf
+    xacro_args: "--inorder "
+  SRDF:
+    relative_path: config/left_hand_model.srdf
+  CONFIG:
+    author_name: BarisYazici
+    author_email: baris.yazici@tum.de
+    generated_timestamp: 1534339207
